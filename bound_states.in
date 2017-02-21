@@ -1,0 +1,9 @@
+1000.	# Upper limit of the integration
+100000	# Number of points in the integration grid
+1.d-6	# Tolerance required in the values of the energy
+100	# Maximum number of bisections
+0	# Angular momentum
+0.d0	# Distance between planes
+-0.3d0	# Energy low
+0.d0	# Energy up 
+500	# Sampling intervals for the energy
